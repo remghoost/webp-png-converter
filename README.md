@@ -37,3 +37,5 @@ Yeah, I didn't capatalize anything in my prompt. Don't @ me.
 
 If you think of something else it should have, let me know.
 I had another version that let you select an entire directory but it was rather cumbersome. Dragging and dropping is easy peasy and works way better.
+
+I want to sort of make it standalone, but it's python based at the moment.
