@@ -34,7 +34,10 @@ The starting prompt I gave to ChatGPT was,
 >can you write me a python script with a gui that has a window i can drag and drop webp pictures into from the windows file explorer? it will convert them to png using ffmpeg and put the new png in the same folder as the input image with the same name but "converted" at the end of it.
 put your response in a code block.
 
-It produced an error or two with the first bit of code and ChatGPT was used to debug it. Didn't save those additional prompts.
+Here's a pastebin of the entire conversation.
+https://pastebin.com/g8FSdwEw
+
+It produced an error or two with the first bit of code and ChatGPT was used to debug it.
 Yeah, I didn't capatalize anything in my prompt. Don't @ me.
 
 If you think of something else it should have, let me know.
