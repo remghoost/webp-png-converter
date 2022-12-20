@@ -1,3 +1,5 @@
+Apparently you can use webp images in A1111 img2img. Whelp, don't I look dumb. haha.
+
 # What does it do?
 __Drag webp files from explorer into the gui and convert them to png.__
 
