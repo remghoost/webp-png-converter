@@ -1,2 +1,4 @@
-PyQt5
-ffmpeg
+os
+subprocess
+PyQt5.QtWidgets
+PyQt5.QtGui
