@@ -1,5 +1,7 @@
 ![preview](images/image.png)
 
+Apparently A1111 can import webp pictures, so this was an exercise in futility. haha.
+
 # What does it do?
 Drag webp files from explorer into the gui and convert them to png. Supports multiple files at once.
 Was made primarily for downloading images off of Reddit and using them in AUTOMATIC1111 for img2img-ing.
